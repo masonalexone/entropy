@@ -1,3 +1,4 @@
-os
+os>=25.5.1
 flask
 random
+gunicorn>=20.1.0
